@@ -29,14 +29,30 @@ First, blockchain games rely on blockchain technology. Unlike traditional games,
 Second, in blockchain games, users are both participants in the game and sharers of the game's future revenue.In traditional games, the ownership of virtual assets (game equipment, skin, coupons, etc.) in the game does not actually belong to the user, but belongs to the game manufacturer. The transaction of game assets between users is not allowed.In blockchain games, the ownership of property rights is defined, and game assets can be freely traded between users. With the growth of game value, the value of equipment and virtual game coin will also increase, from which users can obtain benefits.In this way, users become stakeholders of the game instead of receivers of the game, increasing user stickiness. Small and medium-sized game developers will also have their own loyal fans and traffic.
 Finally, through the decentralized and open and transparent features of blockchain technology, the openness and fairness of game mechanism can be realized.In traditional game projects, game manufacturers have absolute dominance. When game manufacturers change game rules, users can only choose to accept passively. In addition, many numerical algorithms in the game are not transparent, which cannot guarantee fairness in the game.In blockchain games, users can choose to implement hard fork to refuse to accept the game manufacturer's change of rules. Even further, the player can become the game's developer to make the rules and develop the game, which can be determined by the community vote, which can bring better game experience and higher game loyalty to the blockchain games.
 
+Table 1: A comparison between traditional video games and blockchain games
+
 Contrast | Traditional Video Games | Blockchain Games
 ------------ | ------------- | ------------- | 
 rule_1| Game manufacturer formulation | Smart contract
 rule_2| The manufacturer can change it at any time | Developer has no right to change
 rule_3| Stored on a centralized server | Stored on the blockchain
 site | Centralized servers | Blockchain
-Accounts and game props | Ownership belongs to the manufacturer | Ownership belongs to the player
------------- | Players only have access | Players are free to transfer, sell
------------- | Can be blocked at any time | No right to seal the ID or restrict the user
------------- | Props can be arbitrary spam, change | The distribution of props shall be carried out according to the smart contract
------------- | Props are not transferable at will | Props are not transferable at will
+Accounts and game props_1 | Ownership belongs to the manufacturer | Ownership belongs to the player
+Accounts and game props_2 | Players only have access | Players are free to transfer, sell
+Accounts and game props_3 | Can be blocked at any time | No right to seal the ID or restrict the user
+Accounts and game props_4 | Props can be arbitrary spam, change | The distribution of props shall be carried out according to the smart contract
+Accounts and game props_5 | Props are not transferable at will | Props are not transferable at will
+
+### 3. Blockchain game development status
+#### 3.1 Introduction to blockchain games
+
+At the end of 2017, people saw the potential of blockchain games in the future due to the hot status of Cryptokitties, and then 2018 became the first year of the rise of blockchain games.According to statistics from DAppReview, the total transaction volume of blockchain games in 2018 reached 33.6 billion yuan, with over 100 new blockchain games added every month on average.In the second half of 2018, the market size of blockchain games will usher in a new round of growth with the launch of EOS and TRON.Currently, in terms of the market, EOS and TRON, two large public chain communities, occupy the majority of the market share of blockchain games with the advantages of zero commission fee, high TPS and generous developer rewards.
+
+Figure 3：The size of the blockchain gaming market in 2018 (Million RMB)（Source：DAppReview, TLAB）
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+
+At present, blockchain games are mainly divided into seven categories, namely, cultivation, guessing, RPG, simulation operation, sandbox, placement and strategy, of which cultivation, guessing and simulation operation are the main ones.The nurture-type blockchain games are mainly for players to cultivate specific objects (characters or pets, etc.) in the game, and they can reproduce and trade.Guessing games are mainly board games and gambling games developed on the blockchain.Simulated business games simulate the real society. Players manage and buy and sell virtual world, such as virtual companies and virtual real estate.
+
+Figure 4：The type of blockchain games（Source：Wangyi, TLAB）
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+

@@ -59,8 +59,9 @@ Figure 4：The types of the blockchain games
 In terms of the current development level of blockchain technology, blockchain games are most likely to be applied in board games and gambling games on a large scale. By virtue of the open, transparent and tamper-proof advantages of blockchain, users can be convinced of the fairness and impartiality of games.In fact, according to data on DAppRadar's website, as of January 2019, most of the top ten projects on Ethereym, EOS and TRON's three mainstream public chain dapps were betting games based on weekly transaction volume. This is not only because of the good characteristics of smart contracts, but also because the main users of current blockchain games are mainly speculative groups.
 
 Table 2：Weekly trading volume ranking of each public chain (January 2019, DApp)（Source：DAppRadar, TLAB）
+
 Rank | The project name | Type | Public Chain | 24h Number of users | 24h volume (ten thousand dollars) | Week of trading volume (ten thousand dollars)    
------------- | ------------- | ------------- | ------------ |------------ |------------ |------------ |
+------------ | ------------- | ------------- | ------------ |------------ |------------ |------------ |------------ 
 1 | TRONbet | lottery | TRON | 3500 | 1600 | 9170
 2 | Dice | lottery | EOS | 1900 | 1190 | 8040
 3 | EOS Max | lottery | EOS | 792 | 2110 | 2600

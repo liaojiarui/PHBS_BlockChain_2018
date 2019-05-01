@@ -11,6 +11,10 @@ Chinese game industry grows slowly, demographic dividend disappears gradually.Wi
 
 ### 1. Domestic game industry development status
 
+The past year of 2018 has been an extraordinary year for China's game industry. According to the industry report released by China's game industry commission, the actual sales revenue of China's game market in 2018 reached 214.44 billion yuan.However, during the period from 2008 to 2017, the market sales revenue of the game industry has maintained above 15% growth, while in 2018, the market sales revenue of the game industry is only 5.3%, which is a record low for a decade. This also means that the current game industry bid farewell to the past high growth stage, the industry needs to find new growth points.
+
+Figure 1：China game market sales revenue and growth（Source：TLAB）
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)
 
 
 

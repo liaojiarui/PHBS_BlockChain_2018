@@ -75,3 +75,15 @@ Rank | The project name | Type | Public Chain | 24h Number of users | 24h volume
 
 ##### 3.1.1 Blockchain cryptographic pet games (nurseries)
 
+The first popular CryptoKitties game was a pet-forming game that included cat breeding, collection, purchase and sales.Each cat is personally owned by the user and is not controlled by the game developer.ETH allows anyone in the world to buy a virtual cat, and users need only two different cats to breed and give birth to a new cat.These cats can continue to breed or be sold in the market.
+Encryption games there were 100 "creation" cat cat, every 15 minutes there is a new generation of zero cat was born, it's cost is equivalent to the latest sold five cats average price increased by 50%, again on the basis of but if no one buys, sells will begin to decline, until the people to buy, so the cat's price is also according to the market for dynamic adjustment.
+Crypto cats have a 256-bit genome, and cats with different sequences of gene combinations are different, so newborn kittens with different combinations of gene sequences will show different characteristics.To ensure value, the new combinations also take into account rarity, ensuring that some gene sequences are relatively rare, so cats with rare genetic traits will be sold at a premium.
+
+Figure 5：Ethereum's crypto cat
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+
+Since CryptoKitties became popular worldwide, xiaomi, xunlei, netease, baidu, 360 and other Internet companies have launched their own blockchain games of cat, dog and rabbit raising.However, the main factor for the popularity of such blockchain pet games is the speculative motivation of users. The genetic characteristics of kittens produced by two cats are highly random, which is similar to the lottery game with gambling nature. The price of pet cats is not controlled by the official game, so there is room for price speculation.This kind of mild games generally have the problems of single form, entertainment and lack of experience. When the novelty of the game to the public declines and the speculative enthusiasm weakens, the emerging blockchain pet cultivation game will have the phenomenon of weak attraction, decreased daily activity and user loss.
+
+##### 3.1.2 Fomo3D games (Quizzes gambling series)
+
+

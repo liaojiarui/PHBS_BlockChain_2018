@@ -53,6 +53,24 @@ Figure 3：The size of the blockchain gaming market in 2018 (Million RMB)（Sour
 
 At present, blockchain games are mainly divided into seven categories, namely, cultivation, guessing, RPG, simulation operation, sandbox, placement and strategy, of which cultivation, guessing and simulation operation are the main ones.The nurture-type blockchain games are mainly for players to cultivate specific objects (characters or pets, etc.) in the game, and they can reproduce and trade.Guessing games are mainly board games and gambling games developed on the blockchain.Simulated business games simulate the real society. Players manage and buy and sell virtual world, such as virtual companies and virtual real estate.
 
-Figure 4：The type of blockchain games（Source：Wangyi, TLAB）
+Figure 4：The types of the blockchain games
 ![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+
+In terms of the current development level of blockchain technology, blockchain games are most likely to be applied in board games and gambling games on a large scale. By virtue of the open, transparent and tamper-proof advantages of blockchain, users can be convinced of the fairness and impartiality of games.In fact, according to data on DAppRadar's website, as of January 2019, most of the top ten projects on Ethereym, EOS and TRON's three mainstream public chain dapps were betting games based on weekly transaction volume. This is not only because of the good characteristics of smart contracts, but also because the main users of current blockchain games are mainly speculative groups.
+
+Table 2：Weekly trading volume ranking of each public chain (January 2019, DApp)（Source：DAppRadar, TLAB）
+Rank | The project name | Type | Public Chain | 24h Number of users | 24h volume (ten thousand dollars) | Week of trading volume (ten thousand dollars)    
+------------ | ------------- | ------------- | ------------ |------------ |------------ |------------ |
+1 | TRONbet | lottery | TRON | 3500 | 1600 | 9170
+2 | Dice | lottery | EOS | 1900 | 1190 | 8040
+3 | EOS Max | lottery | EOS | 792 | 2110 | 2600
+4 | Poker EOS |lottery | TRON | 203 | 200 | 2070
+5 | FarmEOS | lottery | TRON | 2700 | 260 | 1950
+6 | EOS Jacks | lottery | TRON | 160 | 220 | 1680
+7 | TRONVegas | lottery | TRON | 1900 | 86 | 1390
+8 | Chintai | lottery | TRON | 259 | 120 | 940
+9 | Newdex | lottery | TRON | 1500 | 170 | 880
+10 | Fastwin | lottery | TRON | 2300 | 490 | 880
+
+##### 3.1.1 Blockchain cryptographic pet games (nurseries)
 

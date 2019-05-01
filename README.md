@@ -16,5 +16,9 @@ The past year of 2018 has been an extraordinary year for China's game industry. 
 Figure 1：China game market sales revenue and growth（Source：TLAB）
 ![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)
 
+In terms of game user scale, according to data from the China games industry committee, the number of game users in China was 530 million in the first six months of 2018, up only 4% year-on-year.In fact, since 2010, the growth of Chinese game users has been gradually slowing down, from 62.5% in the first half of 2010 to 4% in the first half of 2018.These are signs that the game market is saturated and the demographic dividend is fading.
 
+Figure 2：China game user scale and growth rate（Source：TLAB）
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)
 
+### 2. Domestic game industry development status

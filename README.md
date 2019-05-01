@@ -61,7 +61,7 @@ In terms of the current development level of blockchain technology, blockchain g
 Table 2：Weekly trading volume ranking of each public chain (January 2019, DApp)（Source：DAppRadar, TLAB）
 
 Rank | The project name | Type | Public Chain | 24h Number of users | 24h volume (ten thousand dollars) | Week of trading volume (ten thousand dollars)    
------------- | ------------- | ------------- | ------------ |------------ |------------ |------------ |------------ 
+------------ | ------------- | ------------- | ------------ |------------ |------------ |------------
 1 | TRONbet | lottery | TRON | 3500 | 1600 | 9170
 2 | Dice | lottery | EOS | 1900 | 1190 | 8040
 3 | EOS Max | lottery | EOS | 792 | 2110 | 2600

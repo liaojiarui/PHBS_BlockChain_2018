@@ -105,7 +105,7 @@ EOS Knights is one of the blockchain games with high playability.Therefore, in t
 Despite the promising future of blockchain games, blockchain games are still in the early stage of development, and large-scale games cannot be developed on blockchain. In addition, both users and the market need to further popularize blockchain games.
 From the perspective of players and users, the current players of blockchain games are mainly "coin circle" users. The purpose of playing games is mainly speculation and speculation, and the number of users for the purpose of game entertainment is not high.From the perspective of daily activity, according to the data of DAppRadar website in early January, the highest daily activity of EOS Knights was only 5,400 users per day, far less than the average daily users of traditional online games.
 
-Table 3：Ranking of blockchain DApp users (January 2019, DApp)（Source：DAppRadar, TLAB）
+Table 3：Ranking of blockchain DApp users (January 2019, DApp)（Source：DAppRadar）
 
 Rank | The project name | Type | Public Chain | 24h Number of users | 24h volume (ten thousand dollars) | 24h Transaction number (ten thousand times)    
 ------------ | ------------- | ------------- | ------------ |------------ |------------ |------------
@@ -153,3 +153,35 @@ Figure 10：EOSDice official website interface（Source：EOSDice）
 ![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
 
 #### 3.3.4 Competitive conditional loopholes
+A competitive condition is one in which a change in the execution order of a program affects the outcome of the program.In the blockchain, an attacker can take control and change the behavior of the smart contract by using an external contract competition that is equal to the leaky contract, according to the security report of lian 'an technology.The representative event of this attack is the FOMO3D attack mentioned above.Because FOMO3D announced the winners after the deadline, an attacker could block certain transactions by blocking the blockchain network by using expensive Gas to make it the only trader in the blockchain.
+
+
+Table 4：FOMO3D's vulnerability attack on competitive conditions（Source：HUXIU）
+
+Block height | The amount of Gas consumed by the attack contract | Other Gas consumption | Percentage of Gas consumed by attack contracts | The cost of the Gas
+------------ | ------------- | ------------- | ------------ |------------ |------------ 
+6191898 | 7000000 | 1000000 | 88% | 0.077
+6191899 | 6770000 | 1230000 | 85% | 0.095
+6191900 | 7700000 | 300000 | 96% | 0.162
+6191901 | 7500000 | 500000 | 94% | 0.158
+6191902 | 7000000 | 1000000 | 88% | 0.147
+6191903 | 7900000 | 100000 | 99% | 1.501
+6191904 | 8000000 | ---- | 100% | 1.52
+6191905 | 7900000 | 100000 | 99% | 3.958
+6191906 | 8000000 | ---- | 100% | 4.008
+6191907 | 7600000 | ---- | 100% | 3.808
+6191908 | 7600000 | 379000 | 95% | 3.808
+
+
+### 4. Future development of blockchain games and Suggestions
+At the beginning of 2005, mobile games were just starting to take off. At that time, there were many voices of doubt in the market.Game quality is too low, rough production supervision and so on, but now, mobile online games have become the giant of the game market.According to the report by the China game industry committee, the actual sales revenue of China's mobile game market has accounted for more than 62% of the Chinese game market by 2018. The sales revenue has increased from 1.5 billion yuan in 2009 to 1339.6 billion yuan in 2018.
+
+Figure 11：The actual sales revenue of Chinese mobile games accounts for a proportion of the Chinese game market（Source：GPC）
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+
+Figure 12：Actual sales revenue of China's mobile game market (Unite: 100 million yuan)（Source：GPC）
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+
+Blockchain games currently encounter problems such as insufficient user base and weak playability.In the experience of blockchain games, users need to create digital currency wallets, manage their own wallet private keys and so on, and the threshold for the game to acquire users is too high.In addition, blockchain games are now more likely to take advantage of the weak regulatory characteristics and do things that cannot be done under the regulatory conditions (no need for the game version number, and the main gambling games). Although there will be more users trying the payment entrance in the promotion channel in the future, it will conflict with the development of the game in the long run and be easily suppressed by the regulation.Quality, fairness, operations, and community governance are the long - term path to game development. But over a long period of time, in the short term when the blockchain bubble dissipates, more people still want to make quick money. Despite the above shortcomings, with the popularity of blockchain technology, the public gradually accept blockchain technology, and the decline in the difficulty of developing blockchain games, blockchain games will also become the next focus of games.
+
+

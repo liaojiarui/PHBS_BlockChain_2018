@@ -69,8 +69,8 @@ Rank | The project name | Type | Public Chain | 24h Number of users | 24h volume
 5 | FarmEOS | lottery | TRON | 2700 | 260 | 1950
 6 | EOS Jacks | lottery | TRON | 160 | 220 | 1680
 7 | TRONVegas | lottery | TRON | 1900 | 86 | 1390
-8 | Chintai | lottery | TRON | 259 | 120 | 940
-9 | Newdex | lottery | TRON | 1500 | 170 | 880
+8 | Chintai | other | TRON | 259 | 120 | 940
+9 | Newdex | trading | TRON | 1500 | 170 | 880
 10 | Fastwin | lottery | TRON | 2300 | 490 | 880
 
 ##### 3.1.1 Blockchain cryptographic pet games (nurseries)
@@ -85,5 +85,40 @@ Figure 5：Ethereum's crypto cat
 Since CryptoKitties became popular worldwide, xiaomi, xunlei, netease, baidu, 360 and other Internet companies have launched their own blockchain games of cat, dog and rabbit raising.However, the main factor for the popularity of such blockchain pet games is the speculative motivation of users. The genetic characteristics of kittens produced by two cats are highly random, which is similar to the lottery game with gambling nature. The price of pet cats is not controlled by the official game, so there is room for price speculation.This kind of mild games generally have the problems of single form, entertainment and lack of experience. When the novelty of the game to the public declines and the speculative enthusiasm weakens, the emerging blockchain pet cultivation game will have the phenomenon of weak attraction, decreased daily activity and user loss.
 
 ##### 3.1.2 Fomo3D games (Quizzes gambling series)
+In July 2018, a blockchain game named Fmo3D began to appear on ethereum network, and a large number of players swarmed into the game within one day, resulting in a large number of traffic jams on ethereum network.Fomo3D is a kind of gambling games, whose rules are relatively simple.At the beginning of each game, the player can spend ETH from ethereum wallet to buy the KEY.As long as the user is the last to buy the KEY and keeps the price for 24 hours, all ETH's in the prize pool belong to the user.On the basis of this rule, Fmo3D also added flash shooting system, bonus system, clan system and other new functions, increasing the playability of the game.On July 16, Fomo3D collected more than 2.13 million ETH in the bonus pool, with a total value of more than 60 million RMB, according to the report of lianda APP.
+
+Figure 6：Fomo3D Game
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+
+In essence, Fomo3D is a typical "capital pool + gambling" blockchain game.It mainly makes use of players' greed and speculative psychology, and makes people engage in it through specially designed token incentive mechanism.In fact, Fomo3D was open to this from the beginning, with lexitscamme as the domain name of the game and Bad Advices as the button to invite friends, which was provocative.Users who are involved know this, but everyone wants to be the last to buy and take all the winnings.
+But the result was unexpected: Fomo3D's first game ended in August, and "EH," worth 20 million yuan, was accessed by a hacker with a special strategy.The hacker used his smart contract to send large amounts of high-priced transactions to ethereum's network.Because italf miners' strategy of packing blocks was high fee first, this player's extremely high fee prevented other players from purchasing KEY in Fomo3D game, thus making him the ultimate winner.
+
+##### 3.1.3 EOS Knights (PRG)
+EOS Knights is an RPG game developed by Korean studio BADA.In terms of the experience, players are required to register an EOS account and a scatter wallet account, then purchase a hero and equipment in the game, followed by the traditional loot mode.But unlike the one-way flow of equipment purchases in traditional games, the flow of equipment in this game is two-way: users can sell game equipment for EOS.
+
+Figure 7：EOS Knights
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+
+EOS Knights is one of the blockchain games with high playability.Therefore, in the field of blockchain games, where gambling and guessing games are popular, this game can often occupy the top ten positions in terms of game activity, and the number of users and transaction volume are also gradually increasing.
+
+### 3.2 Features of the current phase of blockchain games
+Despite the promising future of blockchain games, blockchain games are still in the early stage of development, and large-scale games cannot be developed on blockchain. In addition, both users and the market need to further popularize blockchain games.
+From the perspective of players and users, the current players of blockchain games are mainly "coin circle" users. The purpose of playing games is mainly speculation and speculation, and the number of users for the purpose of game entertainment is not high.From the perspective of daily activity, according to the data of DAppRadar website in early January, the highest daily activity of EOS Knights was only 5,400 users per day, far less than the average daily users of traditional online games.
+
+Rank | The project name | Type | Public Chain | 24h Number of users | 24h volume (ten thousand dollars) | 24h Transaction number (ten thousand times)    
+------------ | ------------- | ------------- | ------------ |------------ |------------ |------------
+1 | PRA CandyBOX | other | EOS | 11400 | 0 | 4
+2 | EOS Knights | PRG | EOS | 5400 | 1.5 | 36.1
+3 | ENBank | other | EOS | 4000 | 0 | 212.1
+4 | TRONbet | lottery | TRON | 3500 | 1840 | 17.4
+5 | EOS Bet | lottery | EOS | 2900 | 43.22 | 448.1
+6 | FarmEOS | lottery | EOS | 2700 | 260 | 163.7
+7 | Fishing Master | lottery | 2400 | 18.83 | 10.5
+8 | Fastwin | lottery | EOS | 2300 | 690 | 23.9
+9 | ALLBET-Presale | lottery | TRON | 2300 | 88.44 | 406.5
+10 | Game Sky | lottery | EOS | 2000 | 0.29| 59.1
+
+From the perspective of game quality, the categories of blockchain games are relatively simple at present, most of which are gambling and capital game, with weak playability, poor user experience, poor UI interface and short life cycle of games.As for the CryptoKitties mentioned above, according to the data from the DAppRadar website, in December 2017, it had more than 10,000 daily users and an average daily trading volume of more than 5,000 EH(worth 45 million RMB at that time).But after January 2018, both the number of daily users and the transaction volume of the game declined rapidly.By January 2019, the number of its daily users is only more than 200, and the daily transaction volume is only 28EH(worth about 20,000 RMB).In fact, long-term tracking of game-like dapps on Ethereum, EOS and TRON shows that a typical blockchain game has a life cycle of only about two weeks.
+From the perspective of law, Token economy model is generally included in blockchain games.However, the supervision of digital currency in China is gradually tightening. Most of the blockchain games are gambling and capital game, which will be strictly regulated by the government in the future.
 
 

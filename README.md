@@ -5,7 +5,7 @@
 liaojiarui (Gary) 1801212884 Fintech
 
 ### Abstract
-Chinese game industry grows slowly, demographic dividend disappears gradually.With the development of blockchain technology and the construction of the overall environment, blockchain games are rapidly promoted.Blockchain games are games developed based on blockchain technology and decentralized operation.Blockchain games can convince users of the fairness and impartiality of games by virtue of the open, transparent and non-tampering advantages of blockchain.Like the early mobile games, blockchain games are mostly faced with problems such as insufficient user base and weak playability.This paper starts with the current situation of the game industry and analyzes the differences between traditional electronic games and blockchain games based on several representative blockchain games, and finally gives reasonable development suggestions.
+Chinese game industry grows slowly, demographic dividend disappears gradually.With the development of blockchain technology and the construction of the overall environment, blockchain games are rapidly promoted.Blockchain games are games developed based on blockchain technology and decentralized operation.Blockchain games can convince users of the fairness and impartiality of games by virtue of the open, transparent and non-tampering advantages of blockchain.Like the early mobile games, blockchain games are mostly faced with problems such as insufficient user base and weak playability.This paper starts with the current situation of the game industry and analyzes the differences between traditional electronic games and blockchain games based on several representative blockchain games, and finally gives reasonable development suggestions.[1]
 
 ### Keywords: Blockchain, Gaming industry, Security
 
@@ -14,11 +14,13 @@ Chinese game industry grows slowly, demographic dividend disappears gradually.Wi
 The past year of 2018 has been an extraordinary year for China's game industry. According to the industry report released by China's game industry commission, the actual sales revenue of China's game market in 2018 reached 214.44 billion yuan.However, during the period from 2008 to 2017, the market sales revenue of the game industry has maintained above 15% growth, while in 2018, the market sales revenue of the game industry is only 5.3%, which is a record low for a decade. This also means that the current game industry bid farewell to the past high growth stage, the industry needs to find new growth points.
 
 Figure 1：China game market sales revenue and growth（Source：Wind）
+
 ![sales_1](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/sales_1.JPG)
 
-In terms of game user scale, according to data from the China games industry committee, the number of game users in China was 530 million in the first six months of 2018, up only 4% year-on-year.In fact, since 2010, the growth of Chinese game users has been gradually slowing down, from 62.5% in the first half of 2010 to 4% in the first half of 2018.These are signs that the game market is saturated and the demographic dividend is fading.
+In terms of game user scale, according to data from the China games industry committee, the number of game users in China was 530 million in the first six months of 2018, up only 4% year-on-year.In fact, since 2010, the growth of Chinese game users has been gradually slowing down, from 62.5% in the first half of 2010 to 4% in the first half of 2018.These are signs that the game market is saturated and the demographic dividend is fading.[2]
 
 Figure 2：China game user scale and growth rate（Source：TLAB）
+
 ![size](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/size.JPG)
 
 ### 2. The application of blockchain technology in the game industry
@@ -46,15 +48,17 @@ Accounts and game props_5 | Props are not transferable at will | Props are not t
 ### 3. Blockchain game development status
 #### 3.1 Introduction to blockchain games
 
-At the end of 2017, people saw the potential of blockchain games in the future due to the hot status of Cryptokitties, and then 2018 became the first year of the rise of blockchain games.According to statistics from DAppReview, the total transaction volume of blockchain games in 2018 reached 33.6 billion yuan, with over 100 new blockchain games added every month on average.In the second half of 2018, the market size of blockchain games will usher in a new round of growth with the launch of EOS and TRON.Currently, in terms of the market, EOS and TRON, two large public chain communities, occupy the majority of the market share of blockchain games with the advantages of zero commission fee, high TPS and generous developer rewards.
+At the end of 2017, people saw the potential of blockchain games in the future due to the hot status of Cryptokitties, and then 2018 became the first year of the rise of blockchain games.According to statistics from DAppReview, the total transaction volume of blockchain games in 2018 reached 33.6 billion yuan, with over 100 new blockchain games added every month on average.In the second half of 2018, the market size of blockchain games will usher in a new round of growth with the launch of EOS and TRON.Currently, in terms of the market, EOS and TRON, two large public chain communities, occupy the majority of the market share of blockchain games with the advantages of zero commission fee, high TPS and generous developer rewards.[3]
 
 Figure 3：The size of the blockchain gaming market in 2018 (Million RMB)（Source：DAppReview）
+
 ![Bsize](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/Bsize.JPG)
 
 At present, blockchain games are mainly divided into seven categories, namely, cultivation, guessing, RPG, simulation operation, sandbox, placement and strategy, of which cultivation, guessing and simulation operation are the main ones.The nurture-type blockchain games are mainly for players to cultivate specific objects (characters or pets, etc.) in the game, and they can reproduce and trade.Guessing games are mainly board games and gambling games developed on the blockchain.Simulated business games simulate the real society. Players manage and buy and sell virtual world, such as virtual companies and virtual real estate.
 
-Figure 4：The types of the blockchain games
-![TYPE](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/TYPE.JPG)（Source：Wangyi）
+Figure 4：The types of the blockchain games（Source：Wangyi）
+
+![TYPE](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/TYPE.JPG)
 
 In terms of the current development level of blockchain technology, blockchain games are most likely to be applied in board games and gambling games on a large scale. By virtue of the open, transparent and tamper-proof advantages of blockchain, users can be convinced of the fairness and impartiality of games.In fact, according to data on DAppRadar's website, as of January 2019, most of the top ten projects on Ethereym, EOS and TRON's three mainstream public chain dapps were betting games based on weekly transaction volume. This is not only because of the good characteristics of smart contracts, but also because the main users of current blockchain games are mainly speculative groups.
 
@@ -79,16 +83,18 @@ The first popular CryptoKitties game was a pet-forming game that included cat br
 Encryption games there were 100 "creation" cat cat, every 15 minutes there is a new generation of zero cat was born, it's cost is equivalent to the latest sold five cats average price increased by 50%, again on the basis of but if no one buys, sells will begin to decline, until the people to buy, so the cat's price is also according to the market for dynamic adjustment.
 Crypto cats have a 256-bit genome, and cats with different sequences of gene combinations are different, so newborn kittens with different combinations of gene sequences will show different characteristics.To ensure value, the new combinations also take into account rarity, ensuring that some gene sequences are relatively rare, so cats with rare genetic traits will be sold at a premium.
 
-Figure 5：Ethereum's crypto cat
-![CAT](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/CAT.JPG)（Source：CryptoKitties）
+Figure 5：Ethereum's crypto cat（Source：CryptoKitties）
+
+![CAT](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/CAT.JPG)
 
 Since CryptoKitties became popular worldwide, xiaomi, xunlei, netease, baidu, 360 and other Internet companies have launched their own blockchain games of cat, dog and rabbit raising.However, the main factor for the popularity of such blockchain pet games is the speculative motivation of users. The genetic characteristics of kittens produced by two cats are highly random, which is similar to the lottery game with gambling nature. The price of pet cats is not controlled by the official game, so there is room for price speculation.This kind of mild games generally have the problems of single form, entertainment and lack of experience. When the novelty of the game to the public declines and the speculative enthusiasm weakens, the emerging blockchain pet cultivation game will have the phenomenon of weak attraction, decreased daily activity and user loss.
 
 ##### 3.1.2 Fomo3D games (Quizzes gambling series)
 In July 2018, a blockchain game named Fmo3D began to appear on ethereum network, and a large number of players swarmed into the game within one day, resulting in a large number of traffic jams on ethereum network.Fomo3D is a kind of gambling games, whose rules are relatively simple.At the beginning of each game, the player can spend ETH from ethereum wallet to buy the KEY.As long as the user is the last to buy the KEY and keeps the price for 24 hours, all ETH's in the prize pool belong to the user.On the basis of this rule, Fmo3D also added flash shooting system, bonus system, clan system and other new functions, increasing the playability of the game.On July 16, Fomo3D collected more than 2.13 million ETH in the bonus pool, with a total value of more than 60 million RMB, according to the report of lianda APP.
 
-Figure 6：Fomo3D Game
-![Fomo3D](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/Fomo3D.JPG)（Source：Fomo3D Game）
+Figure 6：Fomo3D Game（Source：Fomo3D Game）
+
+![Fomo3D](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/Fomo3D.JPG)
 
 In essence, Fomo3D is a typical "capital pool + gambling" blockchain game.It mainly makes use of players' greed and speculative psychology, and makes people engage in it through specially designed token incentive mechanism.In fact, Fomo3D was open to this from the beginning, with lexitscamme as the domain name of the game and Bad Advices as the button to invite friends, which was provocative.Users who are involved know this, but everyone wants to be the last to buy and take all the winnings.
 But the result was unexpected: Fomo3D's first game ended in August, and "EH," worth 20 million yuan, was accessed by a hacker with a special strategy.The hacker used his smart contract to send large amounts of high-priced transactions to ethereum's network.Because italf miners' strategy of packing blocks was high fee first, this player's extremely high fee prevented other players from purchasing KEY in Fomo3D game, thus making him the ultimate winner.
@@ -96,18 +102,20 @@ But the result was unexpected: Fomo3D's first game ended in August, and "EH," wo
 ##### 3.1.3 EOS Knights (PRG)
 EOS Knights is an RPG game developed by Korean studio BADA.In terms of the experience, players are required to register an EOS account and a scatter wallet account, then purchase a hero and equipment in the game, followed by the traditional loot mode.But unlike the one-way flow of equipment purchases in traditional games, the flow of equipment in this game is two-way: users can sell game equipment for EOS.
 
-Figure 7：EOS Knights
-![EOS_k](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/EOS_k.JPG)（Source：EOS Knights）
+Figure 7：EOS Knights（Source：EOS Knights）
+
+![EOS_k](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/EOS_k.JPG)
 
 EOS Knights is one of the blockchain games with high playability.Therefore, in the field of blockchain games, where gambling and guessing games are popular, this game can often occupy the top ten positions in terms of game activity, and the number of users and transaction volume are also gradually increasing.
 
-Figure 8：EOS Knights daily user volume and transaction volume
-![daily data](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/daily%20data.JPG)（Source：DAppRadar）
+Figure 8：EOS Knights daily user volume and transaction volume（Source：DAppRadar）
+
+![daily data](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/daily%20data.JPG)
 
 
 ### 3.2 Features of the current phase of blockchain games
 Despite the promising future of blockchain games, blockchain games are still in the early stage of development, and large-scale games cannot be developed on blockchain. In addition, both users and the market need to further popularize blockchain games.
-From the perspective of players and users, the current players of blockchain games are mainly "coin circle" users. The purpose of playing games is mainly speculation and speculation, and the number of users for the purpose of game entertainment is not high.From the perspective of daily activity, according to the data of DAppRadar website in early January, the highest daily activity of EOS Knights was only 5,400 users per day, far less than the average daily users of traditional online games.
+From the perspective of players and users, the current players of blockchain games are mainly "coin circle" users. The purpose of playing games is mainly speculation and speculation, and the number of users for the purpose of game entertainment is not high.From the perspective of daily activity, according to the data of DAppRadar website in early January, the highest daily activity of EOS Knights was only 5,400 users per day, far less than the average daily users of traditional online games.[4]
 
 Table 3：Ranking of blockchain DApp users (January 2019, DApp)（Source：DAppRadar）
 
@@ -129,6 +137,7 @@ From the perspective of law, Token economy model is generally included in blockc
 
 
 Figure 9：CryptoKitties daily number of users and trading volume (Unit: people, ETH)（Source：DAppRadar）
+
 ![Cat data](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/Cat%20data.JPG)
 
 ### 3.3 Security of blockchain games
@@ -139,6 +148,7 @@ In the attack on the blockchain game, the more common is the overflow attack.For
 In July 2018, werewolf games on the EOS public chain came under such attack.This game was called Fomo3D game of EOS version, whose interface style and game rules were similar to Fomo3D game.According to the report of Lianan technology, this game did not pass the test and security audit before its launch, and there are a lot of loopholes in the game.In late July 2018, the werewolf game was hit by an integer overflow attack, resulting in a negative bonus.
 
 Figure 10：The werewolf game encountered an overflow attack（Source：Lianan technology）
+
 ![attack1](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/attack1.JPG)
 
 #### 3.3.2 override call
@@ -146,6 +156,7 @@ In May 2018, a game called Ether Cartel suffered an overreach attack. The gamepl
 According to the investigation report of Lianan technology, the constructor of this game is inconsistent with the name of the contract, and there is a mismatch loophole in the constructor, which leads to the DrugDealer becoming a common function, and anyone can call this function to become the ceoAddress of the contract, which leads to hackers stealing the ETH of the contract deployer.
 
 Figure 11：Ether Carter: a loophole in the smart contracts game（Source：Lianan technology）
+
 ![EC](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/EC.JPG)
 
 
@@ -154,6 +165,7 @@ Random number is an important problem that restricts the further development of 
 The typical case of this type is the EOSDice hack.EOSDice is a guessing game, so there is a lot of demand for random Numbers.In November 2018, after cracking the pseudo-random algorithm, hackers launched an attack on EOSDice by betting in advance and changing the seed value, and succeeded in stealing several dry EOS.
 
 Figure 12：EOSDice official website interface（Source：EOSDice）
+
 ![EOSDice](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/EOSDice.JPG)
 
 #### 3.3.4 Competitive conditional loopholes
@@ -180,12 +192,24 @@ Block height | The amount of Gas consumed by the attack contract | Other Gas con
 ### 4. Future development of blockchain games and Suggestions
 At the beginning of 2005, mobile games were just starting to take off. At that time, there were many voices of doubt in the market.Game quality is too low, rough production supervision and so on, but now, mobile online games have become the giant of the game market.According to the report by the China game industry committee, the actual sales revenue of China's mobile game market has accounted for more than 62% of the Chinese game market by 2018. The sales revenue has increased from 1.5 billion yuan in 2009 to 1339.6 billion yuan in 2018.
 
-Figure 11：The actual sales revenue of Chinese mobile games accounts for a proportion of the Chinese game market（Source：GPC）
+Figure 14：The actual sales revenue of Chinese mobile games accounts for a proportion of the Chinese game market（Source：GPC）
+
 ![data2](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/data2.JPG)
 
-Figure 12：Actual sales revenue of China's mobile game market (Unite: 100 million yuan)（Source：GPC）
+Figure 15：Actual sales revenue of China's mobile game market (Unite: 100 million yuan)（Source：GPC）
+
 ![data3](https://github.com/liaojiarui/PHBS_BlockChain_2018/blob/master/data3.JPG)
 
-Blockchain games currently encounter problems such as insufficient user base and weak playability.In the experience of blockchain games, users need to create digital currency wallets, manage their own wallet private keys and so on, and the threshold for the game to acquire users is too high.In addition, blockchain games are now more likely to take advantage of the weak regulatory characteristics and do things that cannot be done under the regulatory conditions (no need for the game version number, and the main gambling games). Although there will be more users trying the payment entrance in the promotion channel in the future, it will conflict with the development of the game in the long run and be easily suppressed by the regulation.Quality, fairness, operations, and community governance are the long - term path to game development. But over a long period of time, in the short term when the blockchain bubble dissipates, more people still want to make quick money. Despite the above shortcomings, with the popularity of blockchain technology, the public gradually accept blockchain technology, and the decline in the difficulty of developing blockchain games, blockchain games will also become the next focus of games.
+Blockchain games currently encounter problems such as insufficient user base and weak playability.In the experience of blockchain games, users need to create digital currency wallets, manage their own wallet private keys and so on, and the threshold for the game to acquire users is too high.In addition, blockchain games are now more likely to take advantage of the weak regulatory characteristics and do things that cannot be done under the regulatory conditions (no need for the game version number, and the main gambling games). Although there will be more users trying the payment entrance in the promotion channel in the future, it will conflict with the development of the game in the long run and be easily suppressed by the regulation.Quality, fairness, operations, and community governance are the long - term path to game development. But over a long period of time, in the short term when the blockchain bubble dissipates, more people still want to make quick money. Despite the above shortcomings, with the popularity of blockchain technology, the public gradually accept blockchain technology, and the decline in the difficulty of developing blockchain games, blockchain games will also become the next focus of games.[5]
 
+## **Reference**
 
+[1]虞雀.区块链在游戏产业的应用前景研究[J].中国市场,2018(25):58-59.
+
+[2]胡力木.浅谈网络游戏的改进与创新[J].通讯世界,2018(08):21-22.
+
+[3]区块链养猫游戏受热捧[J].光彩,2018(05):45.
+
+[4]倪荣,肖自强.区块链的发展与安全[J].电脑知识与技术,2018,14(12):24-25.
+
+[5]金安.基于区块链技术的游戏生态系统框架研究与设计[J].信息与电脑(理论版),2018(15):56-57+60.

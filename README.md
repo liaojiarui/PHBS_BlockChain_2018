@@ -105,6 +105,8 @@ EOS Knights is one of the blockchain games with high playability.Therefore, in t
 Despite the promising future of blockchain games, blockchain games are still in the early stage of development, and large-scale games cannot be developed on blockchain. In addition, both users and the market need to further popularize blockchain games.
 From the perspective of players and users, the current players of blockchain games are mainly "coin circle" users. The purpose of playing games is mainly speculation and speculation, and the number of users for the purpose of game entertainment is not high.From the perspective of daily activity, according to the data of DAppRadar website in early January, the highest daily activity of EOS Knights was only 5,400 users per day, far less than the average daily users of traditional online games.
 
+Table 3：Ranking of blockchain DApp users (January 2019, DApp)（Source：DAppRadar, TLAB）
+
 Rank | The project name | Type | Public Chain | 24h Number of users | 24h volume (ten thousand dollars) | 24h Transaction number (ten thousand times)    
 ------------ | ------------- | ------------- | ------------ |------------ |------------ |------------
 1 | PRA CandyBOX | other | EOS | 11400 | 0 | 4
@@ -122,3 +124,32 @@ From the perspective of game quality, the categories of blockchain games are rel
 From the perspective of law, Token economy model is generally included in blockchain games.However, the supervision of digital currency in China is gradually tightening. Most of the blockchain games are gambling and capital game, which will be strictly regulated by the government in the future.
 
 
+Figure 8：CryptoKitties daily number of users and trading volume (unit: people, ETH)（Source：DAppRadar, TLAB）
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+
+### 3.3 Security of blockchain games
+Due to the defects of current smart contracts and the complexity of developing smart contracts, there are still many security risks in blockchain games at present, such as the overflow of mathematical operations in smart contracts and the generation of random Numbers, which all lead to the event that games are attacked by hackers and cause a lot of losses.In addition, the credibility of blockchain games is also an issue. Although all transactions in blockchain games are open to the public, project parties may steal users' digital assets during the contract development process.
+
+#### 3.3.1 Buffer Overflow
+In the attack on the blockchain game, the more common is the overflow attack.For example, whether in Ethereum or EOS, the integer variable unt stores a maximum of eight bits of binary, which is a storage range of 0256.When the number exceeds this range, an overflow will occur, and the hacker will use this vulnerability to launch an attack.
+In July 2018, werewolf games on the EOS public chain came under such attack.This game was called Fomo3D game of EOS version, whose interface style and game rules were similar to Fomo3D game.According to the report of Lianan technology, this game did not pass the test and security audit before its launch, and there are a lot of loopholes in the game.In late July 2018, the werewolf game was hit by an integer overflow attack, resulting in a negative bonus.
+
+Figure 9：The werewolf game encountered an overflow attack（Source：Lianan technology, TLAB）
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+
+#### 3.3.2 override call
+In May 2018, a game called Ether Cartel suffered an overreach attack. The gameplay of this game is the same as that of other similar games. The main thing is that players buy some basic items and then make them into finished products.By selling the finished products, users can gain access to cryptocurrency and digital currency.And the more basic items a player has, the more finished items they produce, and the more money they make.
+According to the investigation report of Lianan technology, the constructor of this game is inconsistent with the name of the contract, and there is a mismatch loophole in the constructor, which leads to the DrugDealer becoming a common function, and anyone can call this function to become the ceoAddress of the contract, which leads to hackers stealing the ETH of the contract deployer.
+
+Figure 10：Ether Carter: a loophole in the smart contracts game（Source：Lianan technology）
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+
+
+#### 3.3.3 Pseudo-random number vulnerability
+Random number is an important problem that restricts the further development of blockchain technology.In reality, it is not possible for a computer to roll dice to get a real random number, but instead to generate a pseudo-random number through a pseudo-random number generator (PRNG).In the traditional computer field, the generation of pseudo-random Numbers is related to the physical or operational state of a single machine: at this time, different computers will generate different pseudo-random number sequences.However, blockchain requires that the computing results of each computer node on the network be verifiable and consensus. Some dapps use the information on the blockchain chain as the seed of random Numbers and generate pseudo-random Numbers in the development and design.At this point, hackers can easily get the right seeds.Once a hacker knows the algorithm for generating random machine Numbers, he can easily launch an attack.
+The typical case of this type is the EOSDice hack.EOSDice is a guessing game, so there is a lot of demand for random Numbers.In November 2018, after cracking the pseudo-random algorithm, hackers launched an attack on EOSDice by betting in advance and changing the seed value, and succeeded in stealing several dry EOS.
+
+Figure 10：EOSDice official website interface（Source：EOSDice）
+![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)（Source：TLAB）
+
+#### 3.3.4 Competitive conditional loopholes

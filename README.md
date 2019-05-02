@@ -13,7 +13,7 @@ Chinese game industry grows slowly, demographic dividend disappears gradually.Wi
 
 The past year of 2018 has been an extraordinary year for China's game industry. According to the industry report released by China's game industry commission, the actual sales revenue of China's game market in 2018 reached 214.44 billion yuan.However, during the period from 2008 to 2017, the market sales revenue of the game industry has maintained above 15% growth, while in 2018, the market sales revenue of the game industry is only 5.3%, which is a record low for a decade. This also means that the current game industry bid farewell to the past high growth stage, the industry needs to find new growth points.
 
-Figure 1：China game market sales revenue and growth（Source：TLAB）
+Figure 1：China game market sales revenue and growth（Source：Wind）
 ![Market Cap](https://github.com/YanrongWu/PHBS_BlockChain_2018/blob/master/MarketCap.png)
 
 In terms of game user scale, according to data from the China games industry committee, the number of game users in China was 530 million in the first six months of 2018, up only 4% year-on-year.In fact, since 2010, the growth of Chinese game users has been gradually slowing down, from 62.5% in the first half of 2010 to 4% in the first half of 2018.These are signs that the game market is saturated and the demographic dividend is fading.
@@ -159,7 +159,7 @@ A competitive condition is one in which a change in the execution order of a pro
 Table 4：FOMO3D's vulnerability attack on competitive conditions（Source：HUXIU）
 
 Block height | The amount of Gas consumed by the attack contract | Other Gas consumption | Percentage of Gas consumed by attack contracts | The cost of the Gas
------------- | ------------- | ------------- | ------------ |------------ |------------ 
+------------ | ------------- | ------------- | ------------ |------------
 6191898 | 7000000 | 1000000 | 88% | 0.077
 6191899 | 6770000 | 1230000 | 85% | 0.095
 6191900 | 7700000 | 300000 | 96% | 0.162
